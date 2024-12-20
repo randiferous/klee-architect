@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.d09e6467.css",
-    "main.js": "./static/js/main.97e499d5.js",
-    "static/js/488.a5702219.chunk.js": "./static/js/488.a5702219.chunk.js",
-    "static/media/contact-bg.jpg": "./static/media/contact-bg.c616148a9d5b39057eaa.jpg",
-    "static/media/hero-bg.jpg": "./static/media/hero-bg.7afdf7f348e356687724.jpg",
-    "index.html": "./index.html",
-    "main.d09e6467.css.map": "./static/css/main.d09e6467.css.map",
-    "main.97e499d5.js.map": "./static/js/main.97e499d5.js.map",
-    "488.a5702219.chunk.js.map": "./static/js/488.a5702219.chunk.js.map"
+    "main.css": "/klee-architect/static/css/main.6dbbe218.css",
+    "main.js": "/klee-architect/static/js/main.b88564e4.js",
+    "static/js/488.a5702219.chunk.js": "/klee-architect/static/js/488.a5702219.chunk.js",
+    "static/media/contact-bg.jpg": "/klee-architect/static/media/contact-bg.c616148a9d5b39057eaa.jpg",
+    "static/media/hero-bg.jpg": "/klee-architect/static/media/hero-bg.7afdf7f348e356687724.jpg",
+    "index.html": "/klee-architect/index.html",
+    "main.6dbbe218.css.map": "/klee-architect/static/css/main.6dbbe218.css.map",
+    "main.b88564e4.js.map": "/klee-architect/static/js/main.b88564e4.js.map",
+    "488.a5702219.chunk.js.map": "/klee-architect/static/js/488.a5702219.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d09e6467.css",
-    "static/js/main.97e499d5.js"
+    "static/css/main.6dbbe218.css",
+    "static/js/main.b88564e4.js"
   ]
 }
