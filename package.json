@@ -1,6 +1,6 @@
 {
   "name": "klee-architect",
-  "homepage": "./",
+  "homepage": ".",
   "_comment": "homepage should be https://randiferous.github.io/klee-architect",
   "version": "0.1.0",
   "private": true,
