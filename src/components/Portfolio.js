@@ -11,7 +11,7 @@ const Portfolio = () => {
                     <div className="col-md-4">
                         <div className="portfolio-card">
                             <div className="portfolio-img-wrapper">
-                                <img src="/images/mixed-development.jpg" alt="Mixed-Use Development" className="portfolio-img" />
+                                <img src="./images/mixed-development.jpg" alt="Mixed-Use Development" className="portfolio-img" />
                                 <div className="portfolio-img-overlay"></div>
                             </div>
                             <h5 className="portfolio-title">Mixed-Use Commercial and Residential Development</h5>
@@ -44,7 +44,7 @@ const Portfolio = () => {
                     <div className="col-md-4">
                         <div className="portfolio-card">
                             <div className="portfolio-img-wrapper">
-                                <img src="/images/parking-garage.jpg" alt="Parking Garage" className="portfolio-img" />
+                                <img src="./images/parking-garage.jpg" alt="Parking Garage" className="portfolio-img" />
                                 <div className="portfolio-img-overlay"></div>
                             </div>
                             <h5 className="portfolio-title">Design of a Multi-Story Parking Garage</h5>
@@ -77,7 +77,7 @@ const Portfolio = () => {
                     <div className="col-md-4">
                         <div className="portfolio-card">
                             <div className="portfolio-img-wrapper">
-                                <img src="/images/minimalist-home.jpg" alt="Minimalist Home" className="portfolio-img" />
+                                <img src="./images/minimalist-home.jpg" alt="Minimalist Home" className="portfolio-img" />
                                 <div className="portfolio-img-overlay"></div>
                             </div>
                             <h5 className="portfolio-title">Modern Minimalist Home in Brooklyn</h5>
