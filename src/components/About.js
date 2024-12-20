@@ -11,7 +11,7 @@ const About = () => {
             <p className="fade-in">For over 30 years, we have proudly served the New York Tri-State area, combining our extensive experience with a commitment to delivering high-quality designs that meet the unique needs of every client. Whether designing innovative commercial spaces or creating custom homes, our team is dedicated to providing professional, thoughtful solutions that stand the test of time.</p>
           </div>
           <div className="col-lg-6 position-relative">
-            <img src="/public/images/about-us.jpg" alt="About Us" className="img-fluid rounded shadow-lg about-image" />
+            <img src="/images/about-us.jpg" alt="About Us" className="img-fluid rounded shadow-lg about-image" />
             <div className="overlay"></div> 
           </div>
         </div>
